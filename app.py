@@ -1,4 +1,4 @@
-
+# variables and boolean 
 character_name = "John" # John is a string (plaintext)
 character_age = 50  # 50 is number, quotes aren't needed for numbers. You can use decimals with numbers
 character_age = "50"

@@ -1,3 +1,4 @@
+# doing math
 from math import * # imports the math module
 
 my_num = 5

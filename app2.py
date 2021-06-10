@@ -1,4 +1,4 @@
-
+# working with phrases and strings
 phrase = "Giraffe Acadamy"
 print(phrase + " is cool")  # this is called concatination
 print(phrase.lower()) # this will make everything in the phrase lowercase

@@ -1,3 +1,4 @@
+# Different ways to handle numbers in python
 num1 = input("Enter a number: ") # python always makes input a string
 num2 = input("Enter another number: ") # need to convert into numbers
 result = num1 + num2 # will print as first and second appended

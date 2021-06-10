@@ -1,5 +1,5 @@
-
-color = input("Enter a color: ")
+# Making a madlib game
+color = input("Enter a color: ") 
 plural_noun = input("Enter a Plural Noun: ")
 celebrity = input("Enter a celebrity: ")
 
